@@ -1,0 +1,99 @@
+
+.parent-top{
+    display:flex;
+    justify-content: center;
+    text-align: center;
+    width: 100%;
+     
+}
+h1{
+    
+    margin: auto;
+}
+.images{
+    display: flex;
+    justify-content: center;
+    margin-top: 60%;
+    margin-top: 30px;
+    
+}
+
+
+.imageline{
+width: 150px;
+border-radius: 15px;
+padding: 10px;
+}
+.top_download_button{
+    background-color: rgb(77, 150, 168);
+    padding: 5px;
+    color: white;
+    border-radius: 20px;
+}
+.what{
+    background-color:rgb(133, 95,177) ;
+    padding:5px;
+    color:white;
+    border-radius:20px ;
+}
+
+
+.parent-footer{
+    background-image: url(image-footer.jpg);
+    display: flex;
+    color: rgb(77, 150, 168), ;
+    justify-content: space-around;
+    margin: auto;
+    
+    
+
+}
+
+.download_version_text:hover{
+    color:rgb(133, 95,177);
+
+}
+.download_version_text{
+    color:rgb(142,227,249)
+
+}
+.qa_button{
+    background-color: rgb(133, 95,177);
+    color:white;
+    padding:8px;
+    border:0px;
+    border-radius:20px ;
+}
+.qa_button:hover{
+    background-color: rgb(217, 184, 255);
+}
+.image-toplogo{
+    width:25% ;
+    height:5%
+}
+.top mid text{
+    color:rgb(135,135,157);
+    font-weight: 100;
+    font-family:'Red Hat Display', sans-serif;
+
+
+}
+.bottom_heading{ font-family: 'Red Hat Display', sans-serif;
+    color:rgb(77, 150, 168);
+    letter-spacing: 4px;
+    font-size: 16px;
+}
+
+.bottom text{
+    color:rgb(77, 150, 168);
+    font-weight: 100;
+    font-family:'Red Hat Display', sans-serif;
+    ;
+
+}
+.parent-footer{
+    background-image: url(/starter-code/utils/assets/images/image-footer);
+}
+.footer-content{
+    
+}
